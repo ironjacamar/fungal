@@ -13,7 +13,7 @@
 
     <groupId>org.jboss.ironjacamar</groupId>
     <artifactId>fungal</artifactId>
-    <version>0.12.0.Final-SNAPSHOT</version>
+    <version>0.12.0.Final</version>
     <name>Fungal</name>
 
     <licenses>
