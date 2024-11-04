@@ -4,9 +4,12 @@ The Fungal kernel
 This is the home of the Fungal kernel project which implements 
 a Plain Old Java Object (POJO) kernel environment.
 
+This project has been created by Jesper Pedersen in http://jesperpedersen.github.com/fungal repository. 
+It has been forked into https://github.com/ironjacamar/fungal, so that it can be further maintained under IronJacamar organization.
+
 Highlights of features:
 -----------------------
-* 100% Pure Java 6 implementation
+* 100% Pure Java implementation
 * Bean definition language
 * Lifecycle of beans
 * Parallel deployment
@@ -21,14 +24,6 @@ Highlights of features:
 * Remote access to management layer (JSR-160)
 * Support multiple kernels in same VM
 
-Homepage:
----------
-http://jesperpedersen.github.com/fungal
-
-Maven2:
--------
-http://jesperpedersen.github.com/fungal/maven2
-
 Project:
 --------
-http://github.com/jesperpedersen/fungal
+https://github.com/ironjacamar/fungal
