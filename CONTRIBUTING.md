@@ -67,7 +67,8 @@ mvn clean install -Dtest=TestClassName
 ## Contributing Guidelines
 
 ``` bash
-git checkout -b $YOUR_BRANCH git push $YOUR_REPO $YOUR_BRANCH
+git checkout -b $YOUR_BRANCH
+git push $YOUR_REPO $YOUR_BRANCH
 ```
 
 Use github.com Web API to create pull request.
